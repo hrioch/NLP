@@ -1,5 +1,5 @@
 # NLP
 Repository for Human Language Technologies
 
-## Description of NLP
+## Overview of NLP
 Document describing elements and interpretations of Natural Language Processing.
