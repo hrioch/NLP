@@ -19,3 +19,10 @@ All of these properties allow for quick and efficient development of text proces
 
 In doing this assignment, I learned about Pickle, utilizing regex in Python, and using a list of keys to iterate through a dictionary. 
 Opening a file, splitting text, and prompting the user were all review.
+
+## Assignment 2 - Word Guessing Game
+This program takes an input file to tokenize its information, display information about part-of-speech tagging, lexical diversity, and more.
+Afterwards, it prompts the user for a guessing game of the 50 most frequent nouns in the given input file. This file must be named "anat19.txt".
+The guessing game chooses a word at random and displays many empty characters to which the user must try to fill out correctly. 
+There is a score system and updated output to track progress. The program can be exited with "!" as an input. 
+[The file can be found here](Homework2_hxo180002.py)
