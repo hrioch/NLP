@@ -26,3 +26,8 @@ Afterwards, it prompts the user for a guessing game of the 50 most frequent noun
 The guessing game chooses a word at random and displays many empty characters to which the user must try to fill out correctly. 
 There is a score system and updated output to track progress. The program can be exited with "!" as an input. 
 [The file can be found here](Homework2_hxo180002.py)
+
+## Assignment 3 - WordNet
+This program shows examples and output of WordNet processing. It uses given sample words, such as human for nouns and living for verbs, to analyze.
+For more in-depth analysis on WordNet and its utility, [check out this short document.](WordNet.pdf)
+For the sample program, [see here.](Homework3_hxo180002.py)
