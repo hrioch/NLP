@@ -33,8 +33,11 @@ For more in-depth analysis on WordNet and its utility, [check out this short doc
 For the sample program, [see here.](Homework3_hxo180002.py)
 
 ## Assignment 4 - Ngrams
-Language can be split into 
-
+Language can be split into smaller sliding windows known as N-grams, which are used for language model creation. There are sample programs that take input,
+use it to create a basis of language, and try to guess the language of incoming text from a test file. 
+The packaging file [can be found here.](Homework4p1_hxo180002.py)
+The analysis and comparison file [can be found here.](Homework4p2_hxo180002.py)
+A more detailed write-up can be [found here.](Ngrams.pdf)
 
 ## Assignment 5 - Sentence Parsing
 There are multiple ways to parse a sentence of language. This exercise has examples of three different parsing methods. There are diagrams, definitions,
