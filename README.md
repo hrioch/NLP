@@ -31,3 +31,12 @@ There is a score system and updated output to track progress. The program can be
 This program shows examples and output of WordNet processing. It uses given sample words, such as human for nouns and living for verbs, to analyze.
 For more in-depth analysis on WordNet and its utility, [check out this short document.](WordNet.pdf)
 For the sample program, [see here.](Homework3_hxo180002.py)
+
+## Assignment 4 - Ngrams
+Language can be split into 
+
+
+## Assignment 5 - Sentence Parsing
+There are multiple ways to parse a sentence of language. This exercise has examples of three different parsing methods. There are diagrams, definitions,
+classifications, and more. Parsing methods include constituency parsing, dependency parsing, and sample role labelling. 
+[The document and analysis of this exercise can be found here.](Sentence_Parsing.pdf)
