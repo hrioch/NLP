@@ -43,3 +43,9 @@ A more detailed write-up can be [found here.](Ngrams.pdf)
 There are multiple ways to parse a sentence of language. This exercise has examples of three different parsing methods. There are diagrams, definitions,
 classifications, and more. Parsing methods include constituency parsing, dependency parsing, and sample role labelling. 
 [The document and analysis of this exercise can be found here.](Sentence_Parsing.pdf)
+
+## Assignment 6 - Finding or Building a Corpus
+This project creates a web crawler and parser that scans through an initial website, finds 15 relevant websites, prints their text onto output files,
+computes word frequency, and prints it. Then, 10 relevant words were chosen from each document and stored into a knowledge base.
+[The program can be found here.](Homework6_hxo180002.py)
+[Explanation of knowledge base and a sample ChatBot conversation can be found here.](Finding_or_Building_a_Corpus.pdf)
