@@ -49,3 +49,9 @@ This project creates a web crawler and parser that scans through an initial webs
 computes word frequency, and prints it. Then, 10 relevant words were chosen from each document and stored into a knowledge base.
 [The program can be found here.](Homework6_hxo180002.py)
 [Explanation of knowledge base and a sample ChatBot conversation can be found here.](Finding_or_Building_a_Corpus.pdf)
+
+## Assignment 7 - Text Classification
+Multiple text classification algorithms were used on a sample dataset and compared in accuracy.
+The notebook pdf [can be found here.](Text_Classification_NB.pdf)
+The discussion of results [can be found here.](Text_Classification.pdf)
+[This is the sample dataset.](best_selling_switch_games.csv)
