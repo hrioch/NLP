@@ -55,3 +55,8 @@ Multiple text classification algorithms were used on a sample dataset and compar
 The notebook pdf [can be found here.](Text_Classification_NB.pdf)
 The discussion of results [can be found here.](Text_Classification.pdf)
 [This is the sample dataset.](best_selling_switch_games.csv)
+
+## Assignment 8 - ACL Paper Summary
+A study was conducted on the inaccuracies of table-to-text linearization when rows and/or columns change positions.
+A solution, known as TableFormer, was presented and tested.
+You can read a summary on this paper [here.](ACLPaperSummary.pdf)
