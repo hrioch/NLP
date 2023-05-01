@@ -60,3 +60,14 @@ The discussion of results [can be found here.](Text_Classification.pdf)
 A study was conducted on the inaccuracies of table-to-text linearization when rows and/or columns change positions.
 A solution, known as TableFormer, was presented and tested.
 You can read a summary on this paper [here.](ACLPaperSummary.pdf)
+
+## Assignment 9 - Teamfight Tactics ChatBot
+A chatbot was created to converse and display information about champions (playable characters) in the game Teamfight Tactics.
+A more detailed report with the repository and explanation of what it does and how to use it [can be found here.](Chatbot_Report.pdf)
+
+
+## Assignment 10 - Text Classification 2
+Multiple text classification algorithms were used on a sample dataset and compared in accuracy.
+The notebook pdf [can be found here.](Text_Classification_NB_2.pdf)
+The discussion of results [can be found here.](Text_Classification_2.pdf)
+[This is the sample dataset.](esports.csv)
