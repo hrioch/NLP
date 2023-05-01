@@ -71,3 +71,11 @@ Multiple text classification algorithms were used on a sample dataset and compar
 The notebook pdf [can be found here.](Text_Classification_NB_2.pdf)
 The discussion of results [can be found here.](Text_Classification_2.pdf)
 [This is the sample dataset.](esports.csv)
+
+# Summary
+All these projects demonstrate a stronger understanding of language composition, machine learning, and parsing/organizing data sets.
+These skills are incredibly important, especially with the rapid evolution of artificial intelligence and its usage of natural language processing.
+With these, the future applications of NLP, AI, and computer science as a whole expand to entire new horizons, and going through these projects helps one prepare for that.
+Other unique techniques include pickling, web scraping, tokenizing, NER, and more.
+
+
